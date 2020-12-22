@@ -1,0 +1,215 @@
+body {
+  margin: 0 0 0 0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  color: #FFFF;
+  margin: 0;
+  font-size: 5.625rem;
+  padding:50px auto 0 auto;
+  font-family: 'Lato', sans-serif;
+}
+
+h2 {
+  color: #11999E;
+  font-size: 2.5rem;
+  margin: 0;
+  line-height:2;
+  font-family: 'Lato', sans-serif;
+}
+
+h3 {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  color: #66BFBF;
+  font-family: 'Lato', sans-serif;
+}
+
+hr {
+  border-color: #5A6665;
+  border-style: dotted none none none;
+  width: 20%;
+  border-width: 8px;
+  text-align: center;
+}
+
+a{
+  color:#11999E;
+}
+
+p {
+  margin: 0;
+}
+/****class section*****/
+.top-container {
+  background-color: #66BFBF;
+  padding-top: 100px;
+  position: relative;
+}
+
+/******top container Images and changes******/
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 550px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 553px;
+}
+
+.mountain-img {
+  position: relative;
+  bottom: -4px;
+}
+
+/*****mid container Images and changes*****/
+.mid-container {
+background-color: #f4f4f2;
+height: auto;
+padding-bottom: 50px;
+}
+
+.avivprofile {
+  border-radius: 100%;
+  width: 150px;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.profile {
+width: 50%;
+margin: 60px auto 100px auto;
+text-align: left;
+line-height: 2
+}
+
+.general {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.work-box{
+  background-color: #f4f4f2;
+  box-shadow: 5px 10px 20px #5A6665;
+  text-align: left;
+  display: inline-block;
+  border-radius: 10px;
+  border-style: double;
+  border-color: #66BFBF;
+  width: 420px;
+  height:auto;
+  position: relative;
+  padding: 5px;
+  margin:0 10px 10px 0;
+  line-height: 1.5;
+}
+
+.richkid {
+  width: 200px;
+  height: 59px;
+  position: relative;
+  left: 120px;
+  margin-bottom: 5px;
+}
+
+.work-box1{
+  background-color: #f4f4f2;
+  box-shadow: 5px 10px 20px #5A6665;
+  display: inline-block;
+  text-align: left;
+  border-radius: 10px;
+  border-style: double;
+  border-color: #66BFBF;
+  width: 420px;
+  height:auto;
+  position: relative;
+  padding: 5px;
+  margin:0 10px 10px 0;
+  line-height: 1.5;
+
+}
+.raviolon {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  left: 130px;
+  margin-bottom: 5px;
+}
+.work-box2{
+  background-color: #f4f4f2;
+  box-shadow: 5px 10px 20px #5A6665;
+  display: inline-block;
+  text-align: left;
+  border-radius: 10px;
+  border-style: double;
+  border-color: #66BFBF;
+  width: 420px;
+  height:auto;
+  position: relative;
+  padding: 5px;
+  margin:0 10px 10px 0;
+  line-height: 1.5;
+}
+.idigital {
+  width: 200px;
+  height: 100px;
+  position: relative;
+  left: 130px;
+  margin-bottom: 5px;
+}
+.skill-row{
+  width: 50%;
+  margin: 60px auto 60px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+
+.front-end {
+  float: left;
+  margin-right: 50px;
+  width: 150px;
+  height: 150px;
+}
+
+.elearning{
+  float: right;
+  margin-left: 50px;
+  width: 150px;
+  height: 150px;
+}
+/*****bottom container Images and changes*****/
+.bot-container {
+background-color: #495464;
+height: auto;
+}
+
+.contact-me {
+  width: 50%;
+  margin: auto;
+}
+
+.btn {
+   border-radius: 20px;
+   height: 30px;
+   color: #FFFFFF;
+   padding: 10px 5px 0 0;
+   text-align: center;
+   width: 150px;
+   font-size: 16px;
+   font-weight: 400;
+   background-color: #11999E;
+   border: solid #000000 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+}
+
+.par {
+  color:#FFFF;
+}
